@@ -7,5 +7,5 @@ try{
 
 }
 catch{
-    Write-Error "Errorremoving Microsoft Teams app"
+    Write-Error "Error removing Microsoft Teams app"
 }
